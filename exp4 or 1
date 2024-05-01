@@ -1,0 +1,6 @@
+git clone link
+cd ex3
+git add
+git commit -m "fix #1"
+git push origin main
+git push origin main
